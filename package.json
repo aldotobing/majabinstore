@@ -1,0 +1,21 @@
+{
+  "name": "majabinstore",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "author": "",
+  "scripts": {
+    "start": "npx cromwell start"
+  },
+  "dependencies": {
+    "@cromwell/cms": "2.1.12",
+    "@cromwell/plugin-main-menu": "1.0.35",
+    "@cromwell/plugin-newsletter": "1.0.25",
+    "@cromwell/plugin-paypal": "1.0.3",
+    "@cromwell/plugin-product-filter": "1.0.35",
+    "@cromwell/plugin-product-showcase": "1.0.26",
+    "@cromwell/plugin-stripe": "1.0.13",
+    "@cromwell/theme-blog": "1.2.32",
+    "@cromwell/theme-store": "2.0.10"
+  }
+}
